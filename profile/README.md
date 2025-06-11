@@ -23,7 +23,7 @@ But beyond the technical world, I live by the principles of Zen—embracing pres
 Like the carefully stacked stones in a Zen garden, I believe success comes from harmony, patience, and clear focus. 
 This balance guides me in approaching complex challenges with calmness and clarity, turning obstacles into opportunities for growth.
 
-### :mega:Contributing
+### :mega: Contributing
 
 Please feel free to fork these repositories and contribute by submitting pull requests with functionality or bug fixes to enhance them.
 
@@ -37,11 +37,10 @@ There are many ways you can support my open-source work. There is no right one t
 
 Nevertheless, I would propose the following:
  
-- :arrow_up: Follow me on [Twitter](https://twitter.com/gocanto).
-- :star: Star the repositories.
-- :handshake: Open pull requests to fix/improve the codebases.
-- :writing_hand: Open pull requests to improve documentation.
-- :coffee: Buy me a [coffee](https://github.com/sponsors/gocanto)?
+- Follow me on [Twitter](https://twitter.com/gocanto).
+- Star the repositories.
+- Open pull requests to fix/improve the codebases.
+- Open pull requests to improve documentation.
+- Buy me a [coffee](https://github.com/sponsors/gocanto)?
 
-> Thank you for reading this far.
 > Thank you for reading this far.
