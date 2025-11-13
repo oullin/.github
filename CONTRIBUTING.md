@@ -41,12 +41,16 @@ refactor: simplify error handling logic
 ```
 
 Use conventional commit prefixes:
+- `build`: Build system or dependency changes
+- `chore`: Maintenance tasks
+- `ci`: CI configuration and script changes
+- `docs`: Documentation changes
 - `feat`: New features
 - `fix`: Bug fixes
-- `docs`: Documentation changes
+- `perf`: Performance improvements
 - `refactor`: Code refactoring
+- `style`: Code style changes (formatting)
 - `test`: Test additions or modifications
-- `chore`: Maintenance tasks
 
 ### Code Style
 
