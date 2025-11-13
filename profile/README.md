@@ -29,7 +29,7 @@ Please feel free to fork these repositories and contribute by submitting pull re
 
 ### :book: License
 
-Please see [License File](https://github.com/praesenx/.github/blob/main/LICENSE) for more information.
+Please see [License File](https://github.com/oullin/.github/blob/main/LICENSE) for more information.
 
 ### :crystal_ball: How can I thank you?
 
